@@ -4,7 +4,7 @@
 # ¡Hola! Soy Carlos 👋
 
 🎓 Estudiante de último curso de Ingeniería Informática
-💻 Interesado en el desarrollo de software, gestión y análisis de datos y los sistemas de información.
+💻 Interesado en el desarrollo de software, gestión y análisis de datos, ciberseguridad, cloud y sistemas de información.
 🚀 Buscando una oportunidad de prácticas para aplicar mis conocimientos, adquirir experiencia profesional y seguir creciendo como desarrollador.
 
 ## 👨‍💻 Sobre mí
@@ -16,7 +16,7 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos prácticos y mejora
 Actualmente, busco una empresa donde realizar mis prácticas, colaborar en proyectos reales y continuar desarrollándome profesionalmente en el ámbito del software.
 
 - 🎯 **Objetivo:** desarrollar mis habilidades como ingeniero de software.
-- 💡 **Intereses:** desarrollo backend, desarrollo Full-Stack, gestión y análisis de datos y diseño de sistemas de información.
+- 💡 **Intereses:** Desarrollo Full-Stack, Análisis de datos, Computación en la nube (Cloud), Desarrollo de sistemas de información.
 - 📚 **Aprendizaje continuo:** ampliando mis conocimientos mediante proyectos y formación técnica.
 
 ## 🛠️ Tecnologías y herramientas
@@ -29,8 +29,10 @@ Actualmente, busco una empresa donde realizar mis prácticas, colaborar en proye
 
 ### Frameworks y desarrollo
 - Java Spring
-- Node.js
 - Flask
+- Django
+- Node.js
+- React.js
 
 ### Bases de datos
 - MySQL
@@ -42,6 +44,7 @@ Actualmente, busco una empresa donde realizar mis prácticas, colaborar en proye
 - Docker
 - Linux
 - Git/GitHub
+- AWS
 
 ## 🚀 Proyectos destacados
 
@@ -81,14 +84,14 @@ Proyecto desarrollado en Python relacionado con el juego de lógica Rush Hour. P
 
 - Seguir mejorando mis habilidades de desarrollo backend y Full-Stack.
 - Profundizar en el diseño y desarrollo de sistemas de información.
-- Ampliar mis conocimientos sobre bases de datos y gestión de datos.
+- Ampliar mis conocimientos sobre análisis de datos.
 - Aprender buenas prácticas de desarrollo, arquitectura de software y trabajo colaborativo.
 
 ## 📫 Contacto
 
 - 💼 **LinkedIn:** [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/)
 - 💻 **GitHub:** [Mi perfil de GitHub](https://github.com/carloslc17)
-- ✉️ **Correo electrónico:** 
+- ✉️ **Correo electrónico:** carlos2005lc@gmail.com
 
 ---
 
